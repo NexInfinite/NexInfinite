@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me
+I am a programmer who is studying computing at a-level and have had an interest in computers for most of my life. I work in:
+- Python
+- JS
+- Rust
+Althought im new to JS and Rust, I have done a couple projects which I have not released onto github which involve them.
 
 <!--
 **NexInfinite/NexInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
