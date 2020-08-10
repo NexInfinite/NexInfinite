@@ -10,5 +10,8 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30" alt="HTMl">
 </p>
 
+### My stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite" alt="My stats">
+
 
 
