@@ -4,15 +4,13 @@ I just enjoy making stupid pieces of code and if it gets popular or people like 
 Ive made many websites so you can check out my work live. I also own a [shop](https://nexinfinite.shop) where you can buy USBs to prank people.
 
 ### My projects 🖥️
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&hide_border=true&show_owner=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&hide_border=true&show_owner=true">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&show_owner=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true">
 
 ### My languages 👀
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexInfinite&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexInfinite&show_icons=true&hide_border=false">
 
 ### My stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=true" alt="My stats">
+<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=false" alt="My stats">
 
 
