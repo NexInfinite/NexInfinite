@@ -9,9 +9,10 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
     <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="30" alt="JS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30" alt="HTMl">
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexInfinite&layout=compact&show_icons=true&hide_border=true">
 
 ### My stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite" alt="My stats">
+<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=true" alt="My stats">
 
 
 
