@@ -8,5 +8,9 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
 ### My stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=true" alt="My stats">
 
-
+### My projects 🖥️
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=discord-bot-help">
+</p>
 
