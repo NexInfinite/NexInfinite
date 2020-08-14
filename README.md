@@ -8,7 +8,7 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true">
 
 ### My languages 👀
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexInfinite&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexinfinite&show_icons=true&show_border=false">
 
 ### My stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=true" alt="My stats">
