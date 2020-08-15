@@ -9,9 +9,9 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
 <a href="https://github.com/NexInfinite/discordBotHelp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true"></a>
 
 ### My languages 👀
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexinfinite&show_icons=true&show_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexinfinite&show_icons=true&hide_border=false">
 
 ### My stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=true" alt="My stats">
+<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=false" alt="My stats">
 
 
