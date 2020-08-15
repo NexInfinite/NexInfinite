@@ -4,8 +4,8 @@ I just enjoy making stupid pieces of code and if it gets popular or people like 
 Ive made many websites so you can check out my work live. I also own a [shop](https://nexinfinite.shop) where you can buy USBs to prank people.
 
 ### My projects 🖥️
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&show_owner=true" href="https://github.com/NexInfinite/hivenpy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true" href="https://github.com/NexInfinite/discordBotHelp">
+<a href="https://github.com/NexInfinite/hivenpy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&show_owner=true"></a>
+<a href="https://github.com/NexInfinite/discordBotHelp"<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true"></a>
 
 ### My languages 👀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexinfinite&show_icons=true&show_border=false">
