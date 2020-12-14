@@ -4,19 +4,19 @@ I just enjoy making stupid pieces of code and if it gets popular or people like 
 Ive made many websites so you can check out my work live. I also own a [shop](https://nexin.store/) where you can buy USBs to prank people.
 
 ### My projects 🖥️
-<a href="https://github.com/NexInfinite/hivenpy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&show_owner=true&theme=radical"></a>
+<a href="https://github.com/NexInfinite/hivenpy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&show_owner=true&theme=radical&hide_border=true"></a>
 <br>
-<a href="https://github.com/NexInfinite/discordBotHelp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true&theme=radical"></a>
+<a href="https://github.com/NexInfinite/discordBotHelp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true&theme=radical&hide_border=true"></a>
 <br>
-<a href="https://github.com/NexInfinite/supporter-discord-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=supporter-discord-webhook&show_owner=true&theme=radical"></a>
+<a href="https://github.com/NexInfinite/supporter-discord-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=supporter-discord-webhook&show_owner=true&theme=radical&hide_border=true"></a>
 <br>
-<a href="https://github.com/NexInfinite/angry-gamer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=angry-gamer&show_owner=true&theme=radical"></a>
+<a href="https://github.com/NexInfinite/angry-gamer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=angry-gamer&show_owner=true&theme=radical&hide_border=true"></a>
 
 
 ### My languages 👀
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexinfinite&show_icons=true&hide_border=false&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexinfinite&show_icons=true&hide_border=false&theme=radical&hide_border=true">
 
 ### My stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=false&theme=radical" alt="My stats">
+<img src="https://github-readme-stats.vercel.app/api?username=NexInfinite&show_icons=true&hide_border=false&theme=radical&hide_border=true" alt="My stats">
 
 
