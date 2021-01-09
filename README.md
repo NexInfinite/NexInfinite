@@ -5,7 +5,6 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
 
 ### My projects 🖥️
 <a href="https://github.com/NexInfinite/discordBotHelp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true&theme=radical&hide_border=true"></a>
-<br>
 <a href="https://github.com/NexInfinite/supporter-discord-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=supporter-discord-webhook&show_owner=true&theme=radical&hide_border=true"></a>
 <br>
 <a href="https://github.com/NexInfinite/angry-gamer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=angry-gamer&show_owner=true&theme=radical&hide_border=true"></a>
