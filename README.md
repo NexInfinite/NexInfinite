@@ -8,7 +8,7 @@ Ive made many websites so you can check out my work live. I also own a [shop](ht
 <a href="https://github.com/NexInfinite/redpandapics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=redpandapics&show_owner=true&theme=radical&hide_border=true"></a>
 <br>
 <a href="https://github.com/NexInfinite/videotoascii"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=videotoascii&show_owner=true&theme=radical&hide_border=true"></a>
-<a href="https://github.com/NexInfinite/not-a-furry-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=not-a-furry-bot&show_owner=true&theme=radical&hide_border=true"></a>
+<a href="https://github.com/NexInfinite/hivenpy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=hivenpy&show_owner=true&theme=radical&hide_border=true"></a>
 <br>
 
 
