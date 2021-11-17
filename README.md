@@ -1,5 +1,5 @@
 ### About me 👋
-I am a 17 year old programmer who is studying computing at a-level and have had an interest in computers for most of my life. 
+I am an 18 year old programmer who is studying computing at a-level and have had an interest in computers for most of my life. 
 I just enjoy making stupid pieces of code and if it gets popular or people like it, then so be it. 
 Ive made many websites so you can check out my work live. I also own a ~~[shop](https://nexin.store/)~~ where you can buy USBs to prank people. Shops kinda dead fam (and now its domain is running out!). Check out my website which showcases my projects here https://julians.work/
 
