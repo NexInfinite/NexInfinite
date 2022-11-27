@@ -1,5 +1,5 @@
 ### About me 👋
-I type stuff.
+I am a Uni Level Computer Science Student. My main interests are in backend API's and AI (weird pair), check out my portfolio at https://julians.work <3
 
 ### My projects 🖥️
 <a href="https://github.com/NexInfinite/whython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=whython&show_owner=true&theme=radical&hide_border=true"></a>
