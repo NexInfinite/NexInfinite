@@ -2,12 +2,12 @@
 I am a Uni Level Computer Science Student. My main interests are in backend API's and AI (weird pair), check out my portfolio at https://julians.work <3
 
 ### My projects 🖥️
-<style>
+<!-- <style>
   .grid-container {
     display: grid;
     grid-template-columns: auto auto;
   }
-</style>
+</style> -->
 <div class="grid-container">
   <div class="grid-item">
     <a href="https://github.com/NexInfinite/whython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=whython&show_owner=true&theme=radical&hide_border=true"></a>
@@ -16,7 +16,7 @@ I am a Uni Level Computer Science Student. My main interests are in backend API'
   <div class="grid-item">
     <a href="https://github.com/NexInfinite/discordBotHelp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true&theme=radical&hide_border=true"></a>
   </div>
-    
+  
   <div class="grid-item">
     <a href="https://github.com/NexInfinite/videotoascii"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=videotoascii&show_owner=true&theme=radical&hide_border=true"></a>
   </div>
