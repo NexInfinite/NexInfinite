@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Project Falcon](https://github.com/Project-Falcon)
 
-- 🌱 I’m currently learning **C#, C++, React, Docker**
+- 🌱 I’m currently learning **C#, Rust, Docker**
 
-- 👨‍💻 All of my projects are available at [https://julians.work](https://julians.work)
+- 👨‍💻 All of my projects are available at [https://julians.work](https://julians.work) (written in html/css/js whaaat)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python or Flask**
 
-- 📫 How to reach me **julianjones663+github@gmail.com**
+- 📫 You can email me on **julianjones663+github@gmail.com**
 
 - ⚡ Fun fact **I play drums and guitar 😎**
 
