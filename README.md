@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexinfinite&label=Profile%20views&color=0e75b6&style=flat" alt="nexinfinite" /> </p>
 
-- 🔭 I’m currently working on [Project Falcon](https://github.com/Project-Falcon)
+- 🔭 I’m currently working on **[Project Falcon](https://github.com/Project-Falcon)**
 
 - 🌱 I’m currently learning **C#, Rust, Docker**
 
-- 👨‍💻 All of my projects are available at [https://julians.work](https://julians.work) (written in html/css/js whaaat)
+- 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)** (written in html/css/js whaaat)
 
 - 💬 Ask me about **Python or Flask**
 
-- 📫 You can email me on **julianjones663+github@gmail.com**
+- 📫 You can email me via **[email](julianjones663+github@gmail.com)**
 
 - ⚡ Fun fact **I play drums and guitar 😎**
 
