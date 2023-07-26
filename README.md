@@ -7,12 +7,12 @@
 </div>
 
 ## About me:
-- 🔭 I’m currently working on **[Project Falcon](https://github.com/Project-Falcon)**
-- 🌱 I’m currently learning **C#, Rust, Docker**
-- 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)** (written in html/css/js whaaat)
+- 🔭 I’m currently working on **[Project Falcon](https://github.com/Project-Falcon)** and **[Project Pixel](https://www.linkedin.com/company/official-project-pixel)**
+- 🌱 I’m currently learning **Godot, Rust, C#**
+- 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)**
 - 💬 Ask me about **Python or Flask**
-- 📫 You can email me via **[email](julianjones663+github@gmail.com)**
-- ⚡ Fun fact **I play drums and guitar 😎**
+- 📫 You can contact me via **[email](julianjones663+github@gmail.com)**
+- ⚡ Fun fact **I play Drums and Guitar 😎**
 
 ## Statistics
 <div align="center">
