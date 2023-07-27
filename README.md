@@ -18,6 +18,6 @@
 ## Statistics
 <div align="center">
   <img height=200 src="https://github-readme-stats-neon-one-54.vercel.app/api?username=nexinfinite&show_icons=true&locale=en&theme=gruvbox&border_color=363636&rank_icon=github" alt="nexinfinite" />
-  <img height=200 src="https://github-readme-stats-neon-one-54.vercel.app/api/top-langs/?username=nexinfinite&layout=donut&theme=gruvbox&hide=c,cmake,makefile&border_color=363636" alt="languages" />
+  <img height=200 src="https://github-readme-stats-neon-one-54.vercel.app/api/top-langs/?username=nexinfinite&layout=donut&theme=gruvbox&hide=c,cmake,makefile&border_color=363636&rank_icon=github" alt="languages" />
 </div>
 
