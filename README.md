@@ -10,10 +10,10 @@
 </div>
 
 ## About me:
-- 🔭 I’m currently working on **[Project Falcon](https://github.com/Project-Falcon)** and **[Project Pixel](https://www.linkedin.com/company/official-project-pixel)**
-- 🌱 I’m currently learning **Godot, Rust, C#**
+- 🔭 I’m currently working on **[Project Falcon](https://github.com/Project-Falcon)** as the Lead Missions Engineer
+- 🌱 I’m currently learning **Godot, Rust, C++**
 - 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)**
-- 💬 Ask me about **Python or Flask**
+- 💬 Ask me about **Python, Flask, Rust**
 - 📫 You can contact me via **[email](julianjones663+github@gmail.com)**
 - ⚡ Fun fact **I play Drums and Guitar 😎**
 
