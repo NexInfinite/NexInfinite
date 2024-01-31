@@ -11,7 +11,7 @@
 
 ## About me:
 - 🔭 I’m currently working on **[Project Falcon](https://www.projectfalcon.uk)** as the Lead Missions Engineer, and **[Better Fantasy](https://github.com/NexInfinite/BetterFantasy)**
-- 🌱 I’m currently learning **Godot, Rust, NextJS*
+- 🌱 I’m currently learning **Godot, Rust, NextJS**
 - 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)**
 - 💬 Ask me about **Python, Flask**
 - 📫 You can contact me via **[email](julianjones663+github@gmail.com)**
