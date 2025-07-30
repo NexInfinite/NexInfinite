@@ -10,8 +10,8 @@
 </div>
 
 ## About me:
-- 🔭 I’m currently working on **[Project Falcon](https://github.com/Avis-Drone-Labs/FGCS/releases/tag/v0.1.4-alpha)** as the Lead Missions Engineer, and I'm on Year in Industry at [Verint](https://verint.com)
-- 🌱 I’m currently learning **NextJS, Angualr, C#**
+- 🔭 I’m currently working on **[FGCS](https://github.com/Avis-Drone-Labs/FGCS/releases/tag/v0.1.9-alpha)** as the Lead Developer, and I'm finishing my Year in Industry at [Verint](https://verint.com)
+- 🌱 I’m currently learning **NextJS, Angular, and C#**
 - 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)**
 - 💬 Ask me about **Python, Flask**
 - 📫 You can contact me via **[email](julianjones663+github@gmail.com)**
