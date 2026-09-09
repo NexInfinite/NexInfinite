@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">Student at the University of Sheffield studying Comptuer Science BSc</h3>
+<h1 align="center">👋 I'm Julian</h1>
+<h3 align="center">Computer Science Graduate from the University of Sheffield</h3>
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nexinfinite&label=Profile%20views&color=0e75b6&style=flat-square" alt="nexinfinite" /> 
@@ -10,12 +10,13 @@
 </div>
 
 ## About me:
-- 🔭 I’m currently working on **[FGCS](https://github.com/Avis-Drone-Labs/FGCS/releases/tag/v0.1.9-alpha)** as the Lead Developer, and I'm finishing my Year in Industry at [Verint](https://verint.com)
+- 🖥️ I'm currently working at **Vertu Motors** as a Software Engineer
 - 🌱 I’m currently learning **NextJS, Angular, and C#**
+- 🔭 Developer of **[FGCS](https://github.com/Avis-Drone-Labs/FGCS/releases)**
 - 👨‍💻 All of my projects are available at **[https://julians.work](https://julians.work)**
 - 💬 Ask me about **Python, Flask**
 - 📫 You can contact me via **[email](julianjones663+github@gmail.com)**
-- ⚡ Fun fact **I play Drums and Guitar 😎**
+- ⚡ Fun fact **I climb up walls 😎**
 
   <!-- 
 <div align="center">
